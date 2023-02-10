@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "142851140891",
+    "firebase_url": "https://city-properties-4d7e4.firebaseio.com",
+    "project_id": "city-properties-4d7e4",
+    "storage_bucket": "city-properties-4d7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142851140891:android:e270ef9c042e94ed",
+        "android_client_info": {
+          "package_name": "com.city.tenantmnm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142851140891-j0og6f4kvv6166ie4baedpg1c1dm0ugh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.city.tenantmnm",
+            "certificate_hash": "335aced236c5345422f0b672444f8cf01ee0e672"
+          }
+        },
+        {
+          "client_id": "142851140891-9vr32kj7mk2kgj9pgqnffch5gfg5nvul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcl15wvikIeyXVmw6aw8-4CyBq5l2uuok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142851140891-9vr32kj7mk2kgj9pgqnffch5gfg5nvul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142851140891-mqnufqn3llmkbn8eo0l44n08e23n8amh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cityproperties.re.tenant",
+                "app_store_id": "1304887901"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
